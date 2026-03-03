@@ -10,12 +10,12 @@ cd DIT-REPO-NAVN
 
 Projektet skal køres i et virtual environment.
  Opret miljø:
-  python -m venv .venv
+ python -m venv .venv
  Aktiver miljø:
  Mac/Linux:
-  source .venv/bin/activate
+ source .venv/bin/activate
  Windows:
-  .venv\Scripts\activate
+ .venv\Scripts\activate
 
  Når det er aktiveret, vises (.venv) i terminalen.
 
