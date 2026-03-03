@@ -3,8 +3,7 @@ Valuta CLI Program
 Et simpelt Python CLI-program, der henter aktuelle valutakurser fra ExchangeRate API.
 
  1. Hent projektet fra GitHub
-git clone https://github.com/DIT-BRUGERNAVN/DIT-REPO-NAVN.git
-cd DIT-REPO-NAVN
+git clone https://github.com/safirestorm/Python_obligatorisk_1.git
 
 2. Opret og aktiver virtuelt miljø
 
